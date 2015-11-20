@@ -1,0 +1,10 @@
+Este es un ejemplo del uso básico de VIM.
+Ahora Este es un ejemplo del uso básico de VIM.
+Ahora voy a copiar las 2 primeras líneas.
+voy a copiar las 2 primeras líneas.
+EEste es un ejemplo del uso básico de VIM.
+Ahoes un ejemplo del uso básico de VIM.
+Ahora voy a copiar las 2 primeras líneas.
+ra voy a copiar las 2 primeras líneas.
+ste
+
